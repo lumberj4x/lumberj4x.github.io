@@ -8,4 +8,4 @@ The luberj4x organization is not open to new members
 
 ### Projects
 
-Self replicating python file: github.com/lumberj4x/Replicator
+Self replicating python file: https://github.com/lumberj4x/Replicator
