@@ -12,9 +12,9 @@ Each of us, with our tic-tac-toes, mine at ~180 lines, and his at an advantageou
 
 After only a few minutes of looking for obvious space wasters, I was down to 94 lines. But, like he always does, my friend catches up quickly.
 This is the code I had at this point.
-<code>
+
   
-#Non spagghetti Code.
+<code>#Non spagghetti Code.
   
 import sys #import sys so we can close our program
 
@@ -194,6 +194,6 @@ def playCycle(): #Create a cycle of 9 plays, 5 by x, 4 by 0. We only run wins ev
   wins() #Im paranoid, so might as well check for a win one last time.
   
 
-playCycle() #Run the game!
+playCycle() #Run the game!</code>
 
-</code>
+
