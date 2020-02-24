@@ -13,8 +13,8 @@ Each of us, with our tic-tac-toes, mine at ~180 lines, and his at an advantageou
 After only a few minutes of looking for obvious space wasters, I was down to 94 lines. But, like he always does, my friend catches up quickly.
 This is the code I had at this point.
 
-  
-<code>#Non spagghetti Code.
+I'll include the link to the repl aswell.
+https://repl.it/@RainierEH/tictactoetwo
   
     import sys #import sys so we can close our program
 
@@ -35,7 +35,7 @@ This is the code I had at this point.
 
       currentPlayer = player
   
-      turn = input('Player enter position from 1 through 9:') #Grab players input as an integer beetween 1 and 9
+      turn = int(input('Player enter position from 1 through 9:')) #Grab players input as an integer beetween 1 and 9
   
         if turn < 10:
     
@@ -194,6 +194,6 @@ This is the code I had at this point.
       wins() #Im paranoid, so might as well check for a win one last time.
   
 
-    playCycle() #Run the game!</code>
+    playCycle() #Run the game!
 
 
