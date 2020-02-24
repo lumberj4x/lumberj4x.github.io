@@ -8,7 +8,7 @@ The luberj4x organization is not open to new members
 
 ### Projects
 
-Self replicating python file: https://github.com/lumberj4x/Replicator
+The Lumber Shack (Team Blog)
 
 ### General coding practice
 
