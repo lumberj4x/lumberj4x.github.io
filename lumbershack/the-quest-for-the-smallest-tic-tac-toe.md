@@ -6,13 +6,15 @@ As the first blog post here, I feel I should warn that I'm not the best at writi
 
 At this point, you're probably wondering, what the hell is wrong with tic-tac-toe. Nothing really, except for the fact that our original programs took up almost two hundred fucking lines. Now I'm not one to really one to care about size, but for the intention of keeping a small file size, and for a later project, I challengd my friend. In order to win, the rules where simple, whoever made a fully functional tic-tac-toe game, in the least lines, and the loser paid for shipping on our amazon order.
 
-### The For The Smallest:
+### The Race For The Smallest:
 
 Each of us, with our tic-tac-toes, mine at ~180 lines, and his at an advantageous ~120, we set out to slim down our projects.
 
 After only a few minutes of looking for obvious space wasters, I was down to 94 lines. But, like he always does, my friend catches up quickly.
 This is the code I had at this point.
-<code>#Non spagghetti Code.
+<code>
+  
+#Non spagghetti Code.
   
 import sys #import sys so we can close our program
 
